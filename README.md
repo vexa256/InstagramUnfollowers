@@ -1,6 +1,6 @@
 # Instagram Unfollowers
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2023)](https://github.com/davidarroyo1234/InstagramUnfollowers)
+[![Maintenance](https://img.shields.io/maintenance/yes/2024)](https://github.com/davidarroyo1234/InstagramUnfollowers)
 
 A nifty tool that lets you see who doesn't follow you back on Instagram.  
 <u>Browser-based and requires no downloads or installations!</u>
@@ -22,6 +22,7 @@ This version utilizes the Instagram API for better performance.
     <img src="./assets/copy_code.png" alt="Initial screen" />
 
 3. Once you have copied the code, you can close this page and go to the instagram website
+
 4. Log in into your account and open the developer console or (Ctrl+Shift+J(Windows) || ⌘+⌥+I (Mac os)) and paste the code.
 
 5. You will be met with the following interface:
@@ -29,12 +30,18 @@ This version utilizes the Instagram API for better performance.
  <img src="./assets/initial.png" alt="Initial screen" />
 
 6. Click "RUN" to start scanning for users who do not follow you back.
+
 7. Once it finishes printing the users, you will be met with the following screen which will show you the results:
 
  <img src="./assets/results.png" alt="Results screen" />
 
-8. If you wish to un-follow any of these users, you can select 1 or more of them via the checkbox next to each user.
+8. To add some user to the whitelist, click in the profile image of the user. This will add the user to the whitelist and will not show up in the results anymore.
 
+9. If you wish to un-follow any of these users, you can select 1 or more of them via the checkbox next to each user.
+
+10. With the latest version, you can now tweak and customize the timings of the script. You can do this by clicking on the "Settings" button.
+
+ <img src="./assets/settings.png" alt="Settings screen" />
 ## Notes
 
 **_The more users you have to check, more time it will take_**
